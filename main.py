@@ -63,7 +63,7 @@ def createTokens(f):
 
 
 def main():
-    tprint("PASSWORD PREDIT","rnd-medium")
+    tprint("PASSWORD STRENGTH PREDITOR","rnd-medium")
     print(colored('Enter the password: ','green'))
     pas=str(input())
     predict(pas)
